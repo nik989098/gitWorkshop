@@ -3,6 +3,7 @@ int main()
 {
 
     int arr[5];
+    char arr[10];
    float sal[10];
    int i,sum;
    scanf("%d",&arr[1]);
